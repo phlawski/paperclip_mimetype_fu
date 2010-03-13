@@ -1,13 +1,7 @@
 PaperclipMimetypeFu
 ===================
 
-Introduction goes here.
+Some browsers send wrong mimetype of uploaded file - this plugin let paperclip define mimetype based on file extension
 
 
-Example
-=======
-
-Example goes here.
-
-
-Copyright (c) 2009 [name of plugin creator], released under the MIT license
+Copyright (c) 2009 [imanel], released under the MIT license
